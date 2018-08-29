@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="494d4583-d4ba-4858-be70-0350eb7158b0" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="05.CountWordsText.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/08.ObjectAndJSON/05.CountWordsText.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="06.CountWordsWithMaps.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/08.ObjectAndJSON/06.CountWordsWithMaps.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="04.SumByTown.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/08.ObjectAndJSON/04.SumByTown.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="03.CappyJuice.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/09.ObjectAndJSONExercise/03.CappyJuice.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="20" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="04.StoreCatalogue.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/09.ObjectAndJSONExercise/04.StoreCatalogue.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="1" lean-forward="true" selection-start-line="2" selection-end-line="24" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="05.AutoEngineeringCompany.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/09.ObjectAndJSONExercise/05.AutoEngineeringCompany.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="06.SystemComponents.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/09.ObjectAndJSONExercise/06.SystemComponents.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="34" column="1" lean-forward="true" selection-start-line="2" selection-end-line="34" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="07.Usernames.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/09.ObjectAndJSONExercise/07.Usernames.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="20" lean-forward="true" selection-start-line="2" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="08.CityMarkets.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/08.ObjectAndJSON/08.CityMarkets.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="08.UniqueSequences.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/09.ObjectAndJSONExercise/08.UniqueSequences.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="1" lean-forward="true" selection-start-line="2" selection-end-line="19" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>i</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>row</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/06.StringAndRegex/07.Usernames.js" />
+        <option value="$PROJECT_DIR$/06.StringAndRegex/08. Censorship.js" />
+        <option value="$PROJECT_DIR$/06.StringAndRegex/08.Censorship.js" />
+        <option value="$PROJECT_DIR$/06.StringAndRegex/09.Escaping.js" />
+        <option value="$PROJECT_DIR$/06.StringAndRegex/11.EmailValidation.js" />
+        <option value="$PROJECT_DIR$/06.StringAndRegex/12.ExpressionSplit.js" />
+        <option value="$PROJECT_DIR$/06.StringAndRegex/13.MatchDates.js" />
+        <option value="$PROJECT_DIR$/06.StringAndRegex/14.EmployeeData.js" />
+        <option value="$PROJECT_DIR$/06.StringAndRegex/10.MatchAllWords.js" />
+        <option value="$PROJECT_DIR$/06.StringAndRegex/16.MatchMultiplication.js" />
+        <option value="$PROJECT_DIR$/06.StringAndRegex/15.FormFiller.js" />
+        <option value="$PROJECT_DIR$/03.Functions/06.AgregateElements.js" />
+        <option value="$PROJECT_DIR$/03.Functions/07.WordsUppercase.js" />
+        <option value="$PROJECT_DIR$/03.1.FunctionExercise/01.InsideVolume.js" />
+        <option value="$PROJECT_DIR$/03.1.FunctionExercise/02.RoadRadar.js" />
+        <option value="$PROJECT_DIR$/03.1.FunctionExercise/03.TemplateFormat.js" />
+        <option value="$PROJECT_DIR$/03.1.FunctionExercise/04.CookingNumbers.js" />
+        <option value="$PROJECT_DIR$/03.1.FunctionExercise/05.ModifyAverage.js" />
+        <option value="$PROJECT_DIR$/03.1.FunctionExercise/06.ValidityChecker.js" />
+        <option value="$PROJECT_DIR$/03.1.FunctionExercise/07.TreasureLocator.js" />
+        <option value="$PROJECT_DIR$/03.1.FunctionExercise/08.TripLength.js" />
+        <option value="$PROJECT_DIR$/07.StringAndRegexExercise/01.SplitStringDelimiter.js" />
+        <option value="$PROJECT_DIR$/07.StringAndRegexExercise/02.RepeatStringNTimes.js" />
+        <option value="$PROJECT_DIR$/07.StringAndRegexExercise/03.StartsWith.js" />
+        <option value="$PROJECT_DIR$/07.StringAndRegexExercise/04.EndsWith.js" />
+        <option value="$PROJECT_DIR$/07.StringAndRegexExercise/05.CapitalizeWords.js" />
+        <option value="$PROJECT_DIR$/07.StringAndRegexExercise/06.CaptureTheNumbers.js" />
+        <option value="$PROJECT_DIR$/07.StringAndRegexExercise/07. FindVariableNamesSentences.js" />
+        <option value="$PROJECT_DIR$/07.StringAndRegexExercise/08.WordOccurences.js" />
+        <option value="$PROJECT_DIR$/07.StringAndRegexExercise/09.ExtractLinks.js" />
+        <option value="$PROJECT_DIR$/07.StringAndRegexExercise/10.SecretData.js" />
+        <option value="$PROJECT_DIR$/08.ObjectAndJSON/01.TownToJSON.js" />
+        <option value="$PROJECT_DIR$/08.ObjectAndJSON/02.ScoreToHTML.js" />
+        <option value="$PROJECT_DIR$/08.ObjectAndJSON/index.html" />
+        <option value="$PROJECT_DIR$/08.ObjectAndJSON/03.JSONToHTMLTable.js" />
+        <option value="$PROJECT_DIR$/08.ObjectAndJSON/03.index.html" />
+        <option value="$PROJECT_DIR$/08.ObjectAndJSON/04.SumByTown.js" />
+        <option value="$PROJECT_DIR$/08.ObjectAndJSON/05.CountWordsText.js" />
+        <option value="$PROJECT_DIR$/08.ObjectAndJSON/06.CountWordsWithMaps.js" />
+        <option value="$PROJECT_DIR$/08.ObjectAndJSON/07.PopulationTowns.js" />
+        <option value="$PROJECT_DIR$/08.ObjectAndJSON/08.CityMarkets.js" />
+        <option value="$PROJECT_DIR$/08.ObjectAndJSON/10.ExtractUniqueWords.js" />
+        <option value="$PROJECT_DIR$/08.ObjectAndJSON/09.LowestPricesCities.js" />
+        <option value="$PROJECT_DIR$/09.ObjectAndJSONExercise/01.HeroicInventory.js" />
+        <option value="$PROJECT_DIR$/09.ObjectAndJSONExercise/02.JSON'sTable.js" />
+        <option value="$PROJECT_DIR$/09.ObjectAndJSONExercise/03.CappyJuice.js" />
+        <option value="$PROJECT_DIR$/09.ObjectAndJSONExercise/08.UniqueSequences.js" />
+        <option value="$PROJECT_DIR$/09.ObjectAndJSONExercise/04.StoreCatalogue.js" />
+        <option value="$PROJECT_DIR$/09.ObjectAndJSONExercise/05.AutoEngineeringCompany.js" />
+        <option value="$PROJECT_DIR$/09.ObjectAndJSONExercise/06.SystemComponents.js" />
+        <option value="$PROJECT_DIR$/09.ObjectAndJSONExercise/07.Usernames.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="604" />
+    <option name="width" value="748" />
+    <option name="height" value="729" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="01.JavaScriptFundamentals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01.JavaScriptFundamentals" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="9.1.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../02.JavaScriptAdvansed" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="E:/programs/Node/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\JavaScriptCore\01.JavaScriptFundamentals\04.ArraysAndMatrix" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.07.Usernames.js">
+    <configuration name="01.SumFirstAndLast.js" type="NodeJSConfigurationType" factoryName="Node.js" nameIsGenerated="true" path-to-js-file="01.SumFirstAndLast.js" working-dir="$PROJECT_DIR$/04.ArraysAndMatrix" />
+    <configuration name="04.StoreCatalogue.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="04.StoreCatalogue.js" working-dir="$PROJECT_DIR$/09.ObjectAndJSONExercise" />
+    <configuration name="05.AutoEngineeringCompany.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="05.AutoEngineeringCompany.js" working-dir="$PROJECT_DIR$/09.ObjectAndJSONExercise" />
+    <configuration name="06.SystemComponents.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="06.SystemComponents.js" working-dir="$PROJECT_DIR$/09.ObjectAndJSONExercise" />
+    <configuration name="07.Usernames.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="07.Usernames.js" working-dir="$PROJECT_DIR$/09.ObjectAndJSONExercise" />
+    <configuration name="08.UniqueSequences.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="08.UniqueSequences.js" working-dir="$PROJECT_DIR$/09.ObjectAndJSONExercise" />
+    <list>
+      <item itemvalue="Node.js.01.SumFirstAndLast.js" />
+      <item itemvalue="Node.js.08.UniqueSequences.js" />
+      <item itemvalue="Node.js.04.StoreCatalogue.js" />
+      <item itemvalue="Node.js.05.AutoEngineeringCompany.js" />
+      <item itemvalue="Node.js.06.SystemComponents.js" />
+      <item itemvalue="Node.js.07.Usernames.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.07.Usernames.js" />
+        <item itemvalue="Node.js.06.SystemComponents.js" />
+        <item itemvalue="Node.js.05.AutoEngineeringCompany.js" />
+        <item itemvalue="Node.js.04.StoreCatalogue.js" />
+        <item itemvalue="Node.js.08.UniqueSequences.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="494d4583-d4ba-4858-be70-0350eb7158b0" name="Default" comment="" />
+      <created>1534368668094</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534368668094</updated>
+      <workItem from="1534368671027" duration="2754000" />
+      <workItem from="1534408311013" duration="12201000" />
+      <workItem from="1534444748686" duration="9000" />
+      <workItem from="1534491879576" duration="11634000" />
+      <workItem from="1534537919537" duration="4984000" />
+      <workItem from="1534623537102" duration="7129000" />
+      <workItem from="1534711268932" duration="2302000" />
+      <workItem from="1534970457841" duration="4993000" />
+      <workItem from="1535024701770" duration="21414000" />
+      <workItem from="1535141293636" duration="157000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="67577000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="604" y="0" width="748" height="729" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2521127" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32998326" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32998326" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37855947" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.51797384" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="24" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/06.StringAndRegex/14.EmployeeData.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.StringAndRegex/08.Censorship.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.StringAndRegex/11.EmailValidation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.StringAndRegex/10.MatchAllWords.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.Functions/01.TriangleOfStars.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.Functions/02.SquareOfStars.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.Functions/03.Palindrome.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.StringAndRegex/16.MatchMultiplication.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.Functions/04.DayOfWeek.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.Functions/05.FunctionalCalculator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.StringAndRegex/15.FormFiller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="2" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.Functions/06.AgregateElements.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.Functions/07.WordsUppercase.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.1.FunctionExercise/01.InsideVolume.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.1.FunctionExercise/02.RoadRadar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" selection-start-line="2" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.1.FunctionExercise/03.TemplateFormat.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="15" lean-forward="true" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.1.FunctionExercise/04.CookingNumbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.1.FunctionExercise/05.ModifyAverage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="2" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.1.FunctionExercise/06.ValidityChecker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.1.FunctionExercise/07.TreasureLocator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.1.FunctionExercise/08.TripLength.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.StringAndRegexExercise/01.SplitStringDelimiter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.StringAndRegexExercise/02.RepeatStringNTimes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.StringAndRegexExercise/03.StartsWith.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.StringAndRegexExercise/04.EndsWith.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.StringAndRegexExercise/05.CapitalizeWords.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.StringAndRegexExercise/06.CaptureTheNumbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.StringAndRegexExercise/07. FindVariableNamesSentences.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.StringAndRegexExercise/08.WordOccurences.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.StringAndRegexExercise/09.ExtractLinks.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.StringAndRegexExercise/10.SecretData.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="38" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.StringAndRegex/09.Escaping.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="1" selection-start-line="12" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08.ObjectAndJSON/03.JSONToHTMLTable.js" />
+    <entry file="file://$PROJECT_DIR$/08.ObjectAndJSON/10.ExtractUniqueWords.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09.ObjectAndJSONExercise/01.HeroicInventory.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="2" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09.ObjectAndJSONExercise/02.JSON'sTable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08.ObjectAndJSON/07.PopulationTowns.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08.ObjectAndJSON/01.TownToJSON.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="38" lean-forward="true" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08.ObjectAndJSON/02.ScoreToHTML.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08.ObjectAndJSON/03.index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08.ObjectAndJSON/04.SumByTown.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08.ObjectAndJSON/05.CountWordsText.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08.ObjectAndJSON/06.CountWordsWithMaps.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09.ObjectAndJSONExercise/03.CappyJuice.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09.ObjectAndJSONExercise/04.StoreCatalogue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="1" lean-forward="true" selection-start-line="2" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09.ObjectAndJSONExercise/08.UniqueSequences.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="2" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08.ObjectAndJSON/09.LowestPricesCities.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08.ObjectAndJSON/08.CityMarkets.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09.ObjectAndJSONExercise/05.AutoEngineeringCompany.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09.ObjectAndJSONExercise/06.SystemComponents.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="1" lean-forward="true" selection-start-line="2" selection-end-line="34" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09.ObjectAndJSONExercise/07.Usernames.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="20" lean-forward="true" selection-start-line="2" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

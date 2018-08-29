@@ -1,0 +1,15 @@
+'use strict';
+
+function leapYear(year) {
+
+    if(year % 400 === 0 ||
+        (year % 4 ===0 && year % 100 !== 0)){
+        console.log('yes');
+    }else {
+        console.log('no');
+    }
+}
+
+leapYear(1999);
+leapYear(2000);
+leapYear(1900);
